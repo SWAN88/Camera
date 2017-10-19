@@ -3,7 +3,7 @@
 //  Camera
 //
 //  Created by 白鳥克哉 on 2017/10/18.
-//  Copyright © 2017年 白鳥克哉. All rights reserved.
+//  Copyright © 2017年 白鳥克哉. All rights reserved.test
 //
 
 import UIKit
